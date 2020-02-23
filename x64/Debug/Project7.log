@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\App\CProjects\Project7\Project7\Source.cpp(123,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\App\CProjects\Project7\Project7\Source.cpp(139,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\App\CProjects\Project7\Project7\Source.cpp(155,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\App\CProjects\Project7\Project7\Source.cpp(212,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\App\CProjects\Project7\Project7\Source.cpp(55,6): warning C4101: copyres: неиспользованная локальная переменная
+  Project7.vcxproj -> C:\App\CProjects\Project7\x64\Debug\Project7.exe

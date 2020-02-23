@@ -1,0 +1,27 @@
+﻿  Source.cpp
+C:\App\CProjects\Project7\Project7\Source.cpp(56,45): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\App\CProjects\Project7\Project7\Source.cpp(56,39): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\App\CProjects\Project7\Project7\Source.cpp(56,33): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\App\CProjects\Project7\Project7\Source.cpp(187,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\App\CProjects\Project7\Project7\Source.cpp(196,94): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+  Создание кода
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 247 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Project7.vcxproj -> C:\App\CProjects\Project7\x64\Release\Project7.exe
